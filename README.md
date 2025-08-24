@@ -4,9 +4,11 @@ Supplementary material for the research "Fall Armyworm infestation and future ri
 ## 1_data: 
 - climate_data: folders of post-processed five historical climatic datasets and two future climatic datasets
 - faw_data: raw data from FAO and final thinned FAW presence observation in Kenya (raw data from CABI is confidential)
+  - Interactive_plot 01, showing thinned presence data: https://pannareeb.github.io/FAW_rhul_2025/PlotPublication/spatial_faw_presence_vs_thinned_map_interactive01.html 
 - spatial_data: LAI index (for generating background 2), Kenya boundary removing deserts and water bodies (for maxent run), and boundary of Kenya at county (AMD1) and subcounty (AMD2) level (for zonal aggregation)
 - augment_data: 3-year planting areas for maize (mergedstat_geo_df) calculated from the other two raw data files in the folder
 - bg_generated_data: generated background samples of three types
+
   
 ## 2_scripts: 
 contains functions used by notebooks
