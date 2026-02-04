@@ -1,5 +1,6 @@
 # supplementary_material_FAWKenyaMaxent
-Supplementary material for the research "Fall Armyworm infestation and future likelihood of spread due to environmental change in maize-cropping regions of Kenya" 
+Supplementary material for the published paper 
+[Boonyuen, P., Ariya, G., Paul, J. D., & Cole, J. (2026). Fall armyworm infestation and future likelihood of spread due to environmental change in maize-cropping regions of Kenya. CABI Agriculture and Bioscience (2026) 7:1, 0007](https://doi.org/10.1079/ab.2026.0007)
 
 ## 1_data: 
 - climate_data: folders of raw and post-processed climatic datasets
@@ -47,6 +48,9 @@ contains outputs of maxent run and analysis from notebook5_maxentrun_analysis.ip
 contain interactive downloadable .html to explore
 early thinned data alone or with late data, and with three background types.
 
+## 6_publication_figure_highres: 
+contain downloadable high-resolution figures (figure 01 - 15) for the published paper 
+[Boonyuen, P., Ariya, G., Paul, J. D., & Cole, J. (2026). Fall armyworm infestation and future likelihood of spread due to environmental change in maize-cropping regions of Kenya. CABI Agriculture and Bioscience (2026) 7:1, 0007](https://doi.org/10.1079/ab.2026.0007)
 
 # Repository author
 Pannaree Boonyuen
